@@ -1,0 +1,29 @@
+body {
+  width: auto;
+  margin: 20px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar {
+  width: 100%;
+  padding: 10px;
+  margin-right: 20px;
+  background-color: bisque;
+  border: solid 1px;
+}
+
+.navbar tr {
+  text-decoration: none;
+}
+
+.profile {
+  text-align: center;
+}
+img {
+  width: 50px;
+}
+
+.jadwal {
+  padding: 20px;
+}
